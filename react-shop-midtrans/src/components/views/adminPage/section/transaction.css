@@ -1,0 +1,19 @@
+
+#detail-item div:hover{
+    position: absolute;
+    background: blanchedalmond;
+    color:green;
+    cursor: all-scroll;
+    overflow: scroll;
+    width: 400px;
+    height: 100px;
+}
+
+
+#detail-item div{
+    width: 80px;
+    height: 20px;
+    cursor: all-scroll;
+    overflow: hidden;
+}
+

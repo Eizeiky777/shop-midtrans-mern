@@ -1,0 +1,19 @@
+bank: "mandiri"
+card_type: "credit"
+finish_redirect_url: "http://example.com?order_id=movie-store-8fd72793-512b-494f-bef4-128792f44360&status_code=200&transaction_status=capture"
+fraud_status: "accept"
+gross_amount: "200000.00"
+masked_card: "481111-1114"
+order_id: "movie-store-8fd72793-512b-494f-bef4-128792f44360"
+payment_type: "credit_card"
+redirect_url: "https://api.sandbox.veritrans.co.id/v2/token/rba/redirect/481111-1114-f7932be0-813e-41a2-a013-aac46ecdb4e9"
+status_code: 200
+status_message: "Success, Credit card transaction is successful"
+transaction_id: "f7932be0-813e-41a2-a013-aac46ecdb4e9"
+transaction_status: "capture"
+transaction_time: "2020-09-08 09:47:58"
+
+estarosa@gmail.com
+085735564255
+4811 1111 1111 1114
+
